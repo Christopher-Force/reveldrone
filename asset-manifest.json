@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reveldrone/static/css/main.a68f963b.chunk.css",
+    "main.js": "/reveldrone/static/js/main.a5372a80.chunk.js",
+    "main.js.map": "/reveldrone/static/js/main.a5372a80.chunk.js.map",
+    "runtime-main.js": "/reveldrone/static/js/runtime-main.464a0cb3.js",
+    "runtime-main.js.map": "/reveldrone/static/js/runtime-main.464a0cb3.js.map",
+    "static/js/2.58a0df93.chunk.js": "/reveldrone/static/js/2.58a0df93.chunk.js",
+    "static/js/2.58a0df93.chunk.js.map": "/reveldrone/static/js/2.58a0df93.chunk.js.map",
+    "static/js/3.756e15b9.chunk.js": "/reveldrone/static/js/3.756e15b9.chunk.js",
+    "static/js/3.756e15b9.chunk.js.map": "/reveldrone/static/js/3.756e15b9.chunk.js.map",
+    "index.html": "/reveldrone/index.html",
+    "static/css/main.a68f963b.chunk.css.map": "/reveldrone/static/css/main.a68f963b.chunk.css.map",
+    "static/js/2.58a0df93.chunk.js.LICENSE.txt": "/reveldrone/static/js/2.58a0df93.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/reveldrone/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.464a0cb3.js",
+    "static/js/2.58a0df93.chunk.js",
+    "static/css/main.a68f963b.chunk.css",
+    "static/js/main.a5372a80.chunk.js"
+  ]
+}
