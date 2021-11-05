@@ -1,45 +1,11 @@
-// module.exports = {
-//   purge: ['./src/**/*.{js,jsx,ts,tsx}', './public/index.html'],
-//   darkMode: false, // or 'media' or 'class'
-//   theme: {
-//     extend: {},
-//   },
-//   variants: {
-//     extend: {},
-//   },
-//   plugins: [],
-// }
-
 module.exports = {
-  important: true,
-  // Active dark mode on class basis
-  darkMode: "class",
-  i18n: {
-    locales: ["en-US"],
-    defaultLocale: "en-US",
-  },
-  purge: {
-    content: ["./pages/**/*.tsx", "./components/**/*.tsx"],
-    // These options are passed through directly to PurgeCSS
-  },
+  purge: ['./src/**/*.{js,jsx,ts,tsx}', './public/index.html'],
+  darkMode: false, // or 'media' or 'class'
   theme: {
-    extend: {
-      backgroundImage: (theme) => ({
-        // check: "url('/icons/check.svg')",
-        // landscape: "url('/images/landscape/2.jpg')",
-      }),
-    },
+    extend: {},
   },
   variants: {
-    extend: {
-      backgroundColor: ["checked"],
-      borderColor: ["checked"],
-      inset: ["checked"],
-      zIndex: ["hover", "active"],
-    },
+    extend: {},
   },
   plugins: [],
-  future: {
-    purgeLayersByDefault: true,
-  },
-};
+}
