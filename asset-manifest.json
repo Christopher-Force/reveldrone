@@ -1,25 +1,24 @@
 {
   "files": {
-    "main.css": "/reveldrone/static/css/main.61409206.chunk.css",
-    "main.js": "/reveldrone/static/js/main.95cb8d42.chunk.js",
-    "main.js.map": "/reveldrone/static/js/main.95cb8d42.chunk.js.map",
-    "runtime-main.js": "/reveldrone/static/js/runtime-main.464a0cb3.js",
-    "runtime-main.js.map": "/reveldrone/static/js/runtime-main.464a0cb3.js.map",
-    "static/js/2.58a0df93.chunk.js": "/reveldrone/static/js/2.58a0df93.chunk.js",
-    "static/js/2.58a0df93.chunk.js.map": "/reveldrone/static/js/2.58a0df93.chunk.js.map",
-    "static/js/3.756e15b9.chunk.js": "/reveldrone/static/js/3.756e15b9.chunk.js",
-    "static/js/3.756e15b9.chunk.js.map": "/reveldrone/static/js/3.756e15b9.chunk.js.map",
+    "main.css": "/reveldrone/static/css/main.3fcce132.chunk.css",
+    "main.js": "/reveldrone/static/js/main.26677a5b.chunk.js",
+    "main.js.map": "/reveldrone/static/js/main.26677a5b.chunk.js.map",
+    "runtime-main.js": "/reveldrone/static/js/runtime-main.2d4c6f3c.js",
+    "runtime-main.js.map": "/reveldrone/static/js/runtime-main.2d4c6f3c.js.map",
+    "static/js/2.93742914.chunk.js": "/reveldrone/static/js/2.93742914.chunk.js",
+    "static/js/2.93742914.chunk.js.map": "/reveldrone/static/js/2.93742914.chunk.js.map",
+    "static/js/3.a0cb8338.chunk.js": "/reveldrone/static/js/3.a0cb8338.chunk.js",
+    "static/js/3.a0cb8338.chunk.js.map": "/reveldrone/static/js/3.a0cb8338.chunk.js.map",
     "index.html": "/reveldrone/index.html",
-    "static/css/main.61409206.chunk.css.map": "/reveldrone/static/css/main.61409206.chunk.css.map",
-    "static/js/2.58a0df93.chunk.js.LICENSE.txt": "/reveldrone/static/js/2.58a0df93.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/reveldrone/static/media/logo.6ce24c58.svg",
+    "static/css/main.3fcce132.chunk.css.map": "/reveldrone/static/css/main.3fcce132.chunk.css.map",
+    "static/js/2.93742914.chunk.js.LICENSE.txt": "/reveldrone/static/js/2.93742914.chunk.js.LICENSE.txt",
     "static/media/logo.9ba3ef92.png": "/reveldrone/static/media/logo.9ba3ef92.png",
     "static/media/team1.7735749d.JPG": "/reveldrone/static/media/team1.7735749d.JPG"
   },
   "entrypoints": [
-    "static/js/runtime-main.464a0cb3.js",
-    "static/js/2.58a0df93.chunk.js",
-    "static/css/main.61409206.chunk.css",
-    "static/js/main.95cb8d42.chunk.js"
+    "static/js/runtime-main.2d4c6f3c.js",
+    "static/js/2.93742914.chunk.js",
+    "static/css/main.3fcce132.chunk.css",
+    "static/js/main.26677a5b.chunk.js"
   ]
 }
